@@ -7,9 +7,9 @@
 ## IF YOU WANT TO BE A PART OF MARTHA'S DEVELOPMENT TEAM,
 ## YOU CAN REACH US FROM THE README FILE ON THIS MODULE'S GITHUB REPOSITORY
 
-## GITHUB REPOSITORY ADDRESS: www.github.com/mustafaugurbaskin/Martha-AI-Date-and-Time-Finder
+## GITHUB REPOSITORY ADDRESS: https://github.com/mustafaugurbaskin/Martha-AI-Date-and-Time-Finder
 
-## MIT LICENSED ® 2020
+## APACHE LICENSE 2.0 ® 2020
 
 ##########################################################################################################
 
@@ -21,7 +21,6 @@ import pytz
 import time
 import pendulum
 import random
-
 from dateutil.relativedelta import relativedelta
 
 ## IMPROTING LIBRARIES
