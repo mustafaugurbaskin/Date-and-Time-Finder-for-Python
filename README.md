@@ -4,6 +4,8 @@
 
 **Since Python is one of the leading programming languages in Machine Learning and Data, all parts of Martha are currently written in Python.**
 
+**THIS MODULE IS NOT THE ORIGINAL OF MARTHA'S DATE AND TIME FINDING MODULE. IT IS AN EXAMPLE DEVELOPED BY MARTHA'S DEVELOPERS FOR USERS AND OPEN SOURCE SOFTWARE.**
+
 **If you think you are good at one of these branches:**
 ***-> Programming***
 ***-> Designing***
