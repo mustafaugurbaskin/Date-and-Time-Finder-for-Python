@@ -23,11 +23,11 @@ $ pip install pytz
 $ pip install pendulum
 ```
 
-*After installing the packages, please clone or download the repository.*
+*After installing the packages, **please clone or download the repository.***
 
 ### Usage
 
-> Try yourself
+> Try yourself with a sample code.
 
 ***Based on the date of 9/24/2020.***
 
