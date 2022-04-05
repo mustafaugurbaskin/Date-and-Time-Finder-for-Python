@@ -41,4 +41,4 @@ $ pip install pendulum
 2020-10-01 15:45:00+00:00
 ```
 
-**To participate in the Martha AI project or for information contact us with *Instagram: @ugurokuduro* or *e-mail: mustafaugur4166@gmail.com*.**
+**To participate in the Martha AI project or for information contact us with *Instagram: nevermetsector* or *e-mail: mustafaugur4166@gmail.com*.**
