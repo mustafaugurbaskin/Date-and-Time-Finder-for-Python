@@ -12,7 +12,7 @@
 ***-> Manufacturing***
 
 **And you want to work with this project, Martha will be waiting for you. :)**
-**You can contact with us using this e-mail *mustafaugur4166@gmail.com* or on Instagram: *@ugurokuduro*.**
+**You can contact with us using this e-mail *mustafaugur4166@gmail.com* or on Instagram: *nevermetsector*.**
 
 ### Install
 
