@@ -30,8 +30,8 @@ Citation:
 ```
 @software{Date & Time Finder from the sentence for Python,
   author = {Mustafa Uğur Baskın},
-  title = {{Date & Time Finder for Python}},
-  url = {https://github.com/github/linguist](https://github.com/mustafaugurbaskin/Date-and-Time-Finder-for-Python},
+  title = {{Date and Time Finder for Python}},
+  url = {(https://github.com/mustafaugurbaskin/Date-and-Time-Finder-for-Python},
   version = {1.0},
   year = {2020}
 }
