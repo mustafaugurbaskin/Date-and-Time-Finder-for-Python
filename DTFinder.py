@@ -38,6 +38,9 @@ class FindDT(object):
 
         # Set timezone as UTC timezone
         self.local_tz = pytz.UTC
+        
+        # Set timezone as dict
+        self.timezone = {'Europe/Istanbul'}
 
         # Error words
         self.error = ['Sorry, please say a valid time or date.', 'Unable to find date and time']
@@ -312,9 +315,9 @@ class FindDT(object):
                     self.months = []
                     self.years = []
 
-                    self.years.append(pendulum.now(userInfo['timezone']).strftime('%Y'))
-                    self.months.append(pendulum.now(userInfo['timezone']).strftime('%m'))
-                    self.days.append(pendulum.now(userInfo['timezone']).strftime('%d'))
+                    self.years.append(pendulum.now(self.timezone['timezone']).strftime('%Y'))
+                    self.months.append(pendulum.now(self.timezone['timezone']).strftime('%m'))
+                    self.days.append(pendulum.now(self.timezone['timezone']).strftime('%d'))
 
                 except:
                     pass
