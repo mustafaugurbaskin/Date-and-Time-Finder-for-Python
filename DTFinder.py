@@ -1,7 +1,7 @@
 ##########################################################################################################
 
 ## Developed by Mustafa Ugur Baskin
-## Contact: https://www.linkedin.com/in/mustafa-u%C4%9Fur-b-9b0138135/
+## Contact: https://www.linkedin.com/mustafaugurbaskin/
 
 ## GITHUB REPOSITORY ADDRESS: https://github.com/mustafaugurbaskin/Date-and-Time-Finder-for-Python
 
