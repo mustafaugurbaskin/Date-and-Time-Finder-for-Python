@@ -1,11 +1,7 @@
 ##########################################################################################################
 
-## THIS MODULE DEVELOPED BY MUSTAFA UGUR BASKIN
-## THIS MODULE IS PART OF MARTHA AI VOICE ASSISTANT'S SOFTWARE
-## THIS SOFTWARE HAS BEEN USED IN MARTHA'S APPLICATIONS TO FIND DATE AND TIME
-
-## IF YOU WANT TO BE A PART OF MARTHA'S DEVELOPMENT TEAM,
-## YOU CAN REACH US FROM THE README FILE ON THIS MODULE'S GITHUB REPOSITORY
+## Developed by Mustafa Ugur Baskin
+## Contact: https://www.linkedin.com/in/mustafa-u%C4%9Fur-b-9b0138135/
 
 ## GITHUB REPOSITORY ADDRESS: https://github.com/mustafaugurbaskin/Date-and-Time-Finder-for-Python
 
