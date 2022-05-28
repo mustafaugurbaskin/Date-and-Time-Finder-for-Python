@@ -24,3 +24,13 @@ $ pip install pendulum
 >>> get.checkDate()
 2020-10-01 15:45:00+00:00
 ```
+
+```
+@software{Lisa_My_Research_Software_2017,
+  author = {Mustafa Uğur Baskın},
+  title = {{Date & Time Finder for Python}},
+  url = {https://github.com/github/linguist](https://github.com/mustafaugurbaskin/Date-and-Time-Finder-for-Python},
+  version = {1.0},
+  year = {2020}
+}
+```
