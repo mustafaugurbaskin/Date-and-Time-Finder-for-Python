@@ -28,7 +28,7 @@ $ pip install pendulum
 Citation:
 
 ```
-@software{Lisa_My_Research_Software_2017,
+@software{Date & Time Finder from the sentence for Python,
   author = {Mustafa Uğur Baskın},
   title = {{Date & Time Finder for Python}},
   url = {https://github.com/github/linguist](https://github.com/mustafaugurbaskin/Date-and-Time-Finder-for-Python},
